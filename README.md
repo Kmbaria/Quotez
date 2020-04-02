@@ -1,7 +1,7 @@
 # Quotez
 By George K Mbaria
 
-# Quote is a web application that displays quotes from various people .
+# Quote is a web application that displays quotes from various people.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 # Description
@@ -40,7 +40,7 @@ George k mbaria ~ Kmbaria.george@gmail.com
 
 New quotes deletes itself if you try to add new quote
 # Behaviour Driven Development
-The following table show all the BDD
+The following table show all the BDD.
 
 | Behavior        | Input           | Outcome  |
 | ------------- |:-------------:| -----:|

@@ -1,7 +1,7 @@
 # Quotez
 By George K Mbaria
 
-# Quote is a web application that displays quotes from various people.
+# Quote is a web application that displays quotes from various people who.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 # Description

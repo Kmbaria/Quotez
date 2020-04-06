@@ -39,7 +39,7 @@ George k mbaria ~ Kmbaria.george@gmail.com
 
 New quotes deletes itself if you try to add new quote
 # Behaviour Driven Development
-The following table show all the BDD.
+The following table below show all the BDD.
 
 | Behavior        | Input           | Outcome  |
 | ------------- |:-------------:| -----:|

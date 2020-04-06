@@ -9,7 +9,7 @@ Quote is a web based application that displays quotes from various people around
 
 # Link to deployed website
 
-  Click here to view the deployed site on any of 
+  Click here to view the deployed site on any of your Browser:
 https://frosty-easley-417809.netlify.com
 
 ## Development server

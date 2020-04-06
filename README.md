@@ -35,8 +35,8 @@ For more info or assistance, please contact:
 George k mbaria ~ Kmbaria.george@gmail.com
 
 # Known Bugs
+Sometime the upvote and devote stops working
 
-New quotes deletes itself if you try to add new quote
 # Behaviour Driven Development
 The following table below show all the BDD.
 
